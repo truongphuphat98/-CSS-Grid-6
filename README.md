@@ -1,2 +1,2 @@
-# -CSS-Grid-6
+# CSS-Grid-6
 CSS-GRID-BASIC-LAYOUT-6
